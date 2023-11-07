@@ -12,6 +12,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "papaparse": "^5.4.1",
-    "prettier": "^3.0.3"
+    "prettier": "^3.0.3",
+    "ramda": "^0.29.1"
   }
 }
